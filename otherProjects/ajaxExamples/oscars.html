@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>LM: Oscars</title>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <style>
+        .movieImage{
+        width: 100%;
+        } 
+        /*hover effect removed because I couldn't get the images to link to an external webpage (a site that has movie information such as movieDB/IMDB/RT) */
+        /* 
+        .movieImage:hover {
+	   background-position: 0 0;
+        opacity: 0.4;
+
+        } */
+        .jtron-bg{
+           background-color: #d9edf7;
+            margin-top: 20px;
+        }
+
+    </style>
+ 
+    <!-- link to custom favicon -->
+    <link rel="icon" href="http://liam013.github.io/images/favicon.ico"/>
+</head>
+<body>
+<div class="container">
+    
+    <div class="jumbotron jtron-bg hidden-xs">
+            <h1>Oscars Best Picture Winners of the 2000's</h1>
+            <p>How many do you agree with?</p>
+            <!-- Jumbotron ends -->
+        </div>
+
+    <div id="movieData" class="row">
+          </div>
+    <br><br>
+<button id="compare" class="btn btn-success" type="button">Compare Results</button>
+    
+<br><br>
+           
+        
+    
+     
+      
+    
+<!-- container div ends -->
+</div>
+<script src="js/oscars.js"></script>
+<script src="http://liam013.github.io/js/getNav.js"></script>
+</body>
+</html>

@@ -1,0 +1,208 @@
+{
+	"albums": [{
+			"albumImage": "images/albums/bruce.jpg",
+			"artist": "Bruce Springsteen",
+			"albumTitle": "Born to Run",
+			"year": "1975",
+			"genre": "Heartland Rock"
+		},
+
+		{
+			"albumImage": "images/albums/tomWaitsBlue.jpg",
+			"artist": "Tom Waits",
+			"albumTitle": "Blue Valentine",
+			"year": "1978",
+			"genre": "Singer/songwriter"
+		},
+
+		{
+			"albumImage": "images/albums/alison.jpg",
+			"artist": "Alison Krauss",
+			"albumTitle": "Forget About It",
+			"year": "1999",
+			"genre": "Bluegrass"
+		},
+
+		{
+			"albumImage": "images/albums/pinkFloydWish.jpg",
+			"artist": "Pink Floyd",
+			"albumTitle": "Wish You Were Here",
+			"year": "1975",
+			"genre": "Progressive Rock"
+		},
+
+		{
+			"albumImage": "images/albums/rage.jpg",
+			"artist": "Rage Against the Machine",
+			"albumTitle": "Rage Against the Machine",
+			"year": "1992",
+			"genre": "Rap Metal"
+		},
+
+		{
+			"albumImage": "images/albums/nirvanna.jpg",
+			"artist": "Nirvana",
+			"albumTitle": "MTV Unplugged In New York",
+			"year": "1994",
+			"genre": "Grunge"
+		},
+
+		{
+			"albumImage": "images/albums/tool.jpg",
+			"artist": "Tool",
+			"albumTitle": "Lateralus",
+			"year": "2001",
+			"genre": "Progressive Metal"
+		},
+
+		{
+			"albumImage": "images/albums/sara.jpg",
+			"artist": "Sara K",
+			"albumTitle": "Hell or High Water",
+			"year": "2006",
+			"genre": "Singer/songwriter"
+
+		},
+
+		{
+			"albumImage": "images/albums/pinkFloydMoon.jpg",
+			"artist": "Pink Floyd",
+			"albumTitle": "Dark Side of the Moon",
+			"year": "1973",
+			"genre": "Progressive Rock"
+		},
+
+		{
+			"albumImage": "images/albums/miles.jpg",
+			"artist": "Miles Davis",
+			"albumTitle": "Kind of Blue",
+			"year": "1959",
+			"genre": "Modal Jazz"
+		},
+
+		{
+			"albumImage": "images/albums/daft.jpg",
+			"artist": "Daft Punk",
+			"albumTitle": "Discovery",
+			"year": "2001",
+			"genre": "Electro-disco"
+		},
+
+		{
+			"albumImage": "images/albums/tomWaitsSmall.jpg",
+			"artist": "Tom Waits",
+			"albumTitle": "Small Change",
+			"year": "1976",
+			"genre": "Piano Blues"
+		},
+
+		{
+			"albumImage": "images/albums/stevie.jpg",
+			"artist": "Stevie Ray Vaughan",
+			"albumTitle": "Texas Flood",
+			"year": "1983",
+			"genre": "Blues Rock"
+		},
+
+		{
+			"albumImage": "images/albums/porcupine.jpg",
+			"artist": "Porcupine Tree",
+			"albumTitle": "In Absentia",
+			"year": "2002",
+			"genre": "Progressive Rock"
+		},
+
+		{
+			"albumImage": "images/albums/art.jpg",
+			"artist": "Art Blakey",
+			"albumTitle": "Moanin'",
+			"year": "1959",
+			"genre": "Hard Bop Jazz"
+		}, {
+			"albumImage": "images/albums/norah.jpg",
+			"artist": "Norah Jones",
+			"albumTitle": "Come Away With Me",
+			"year": "2002",
+			"genre": "Vocal Jazz"
+		}
+	],
+	"devices": [
+
+		{
+			"deviceImage": "images/devices/e12.jpg",
+			"device": "E12",
+			"type": "Portable amp (solid-state)",
+			"company": "FiiO",
+			"price": "$130 CAD"
+
+		}, {
+			"deviceImage": "images/devices/gs1000e.jpg",
+			"device": "GS1000e",
+			"type": "Headphones",
+			"company": "Grado",
+			"price": "$1,300 CAD"
+		}, {
+			"deviceImage": "images/devices/rs1i.jpg",
+			"device": "RS1i",
+			"type": "Headphones",
+			"company": "Grado",
+			"price": "$900 CAD"
+		}, {
+			"deviceImage": "images/devices/sr60e.jpg",
+			"device": "SR60e",
+			"type": "Headphones",
+			"company": "Grado",
+			"price": "$120 CAD"
+		}, {
+			"deviceImage": "images/devices/hd650.jpg",
+			"device": "HD 650",
+			"type": "Headphones",
+			"company": "Sennheiser",
+			"price": "$550 CAD"
+		}, {
+			"deviceImage": "images/devices/samson.jpg",
+			"device": "SR 850",
+			"type": "Headphones",
+			"company": "Samson",
+			"price": "$70 CAD"
+		}, {
+			"deviceImage": "images/devices/rha.jpg",
+			"device": "MA750i",
+			"type": "In-ear monitors",
+			"company": "RHA",
+			"price": "$150 CAD"
+		}, {
+			"deviceImage": "images/devices/sonos.jpg",
+			"device": "Play: 1",
+			"type": "WiFi connected speaker",
+			"company": "Sonos",
+			"price": "$220 CAD"
+		}, {
+			"deviceImage": "images/devices/walsh.jpg",
+			"device": "Walsh 3",
+			"type": "Speakers (passive)",
+			"company": "Ohm",
+			"price": "$1,200 CAD"
+		}, {
+			"deviceImage": "images/devices/evo.jpg",
+			"device": "Evo 2/8",
+			"type": "Speakers (passive)",
+			"company": "Wharfedale",
+			"price": "$600 CAD"
+		}, {
+			"deviceImage": "images/devices/asgard.jpg",
+			"device": "Asgard 2",
+			"type": "Amplifier (solid-state)",
+			"company": "Schiit",
+			"price": "$325 CAD"
+		}, {
+			"deviceImage": "images/devices/modi.jpg",
+			"device": "Modi",
+			"type": "DAC",
+			"company": "Schiit",
+			"price": "$130 CAD"
+
+
+		}
+	]
+}
