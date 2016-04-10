@@ -1,10 +1,10 @@
 {
 	"albums": [{
 			"albumImage": "images/albums/bruce.jpg",
-			"artist": "Bruce Springsteen",
-			"albumTitle": "Born to Run",
-			"year": "1975",
-			"genre": "Heartland Rock"
+			"name": "Super-Nintendo",
+			"company": "Nintendo",
+			"year": "1990",
+			"genre": "Home Console"
 		},
 
 		{
