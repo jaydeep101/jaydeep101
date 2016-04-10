@@ -9,121 +9,121 @@
 
 		{
 			"albumImage": "images/albums/tomWaitsBlue.jpg",
-			"artist": "Tom Waits",
-			"albumTitle": "Blue Valentine",
-			"year": "1978",
-			"genre": "Singer/songwriter"
+			"artist": "Sega Genesis",
+			"albumTitle": "Sega",
+			"year": "1989",
+			"genre": "Console"
 		},
 
 		{
 			"albumImage": "images/albums/alison.jpg",
-			"artist": "Alison Krauss",
-			"albumTitle": "Forget About It",
-			"year": "1999",
-			"genre": "Bluegrass"
+			"artist": "Nintendo 64",
+			"albumTitle": "Nintendo",
+			"year": "1996",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/pinkFloydWish.jpg",
-			"artist": "Pink Floyd",
-			"albumTitle": "Wish You Were Here",
-			"year": "1975",
-			"genre": "Progressive Rock"
+			"artist": "Sega Dreamcast",
+			"albumTitle": "Sega",
+			"year": "1999",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/rage.jpg",
-			"artist": "Rage Against the Machine",
-			"albumTitle": "Rage Against the Machine",
-			"year": "1992",
-			"genre": "Rap Metal"
+			"artist": "Playstation",
+			"albumTitle": "Sony",
+			"year": "1995",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/nirvanna.jpg",
-			"artist": "Nirvana",
-			"albumTitle": "MTV Unplugged In New York",
-			"year": "1994",
-			"genre": "Grunge"
+			"artist": "Playstation 2",
+			"albumTitle": "Sony",
+			"year": "2000",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/tool.jpg",
-			"artist": "Tool",
-			"albumTitle": "Lateralus",
+			"artist": "XBOX",
+			"albumTitle": "Microsoft",
 			"year": "2001",
-			"genre": "Progressive Metal"
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/sara.jpg",
-			"artist": "Sara K",
-			"albumTitle": "Hell or High Water",
-			"year": "2006",
-			"genre": "Singer/songwriter"
+			"artist": "Gamecube",
+			"albumTitle": "Nintendo",
+			"year": "2001",
+			"genre": "console"
 
 		},
 
 		{
 			"albumImage": "images/albums/pinkFloydMoon.jpg",
-			"artist": "Pink Floyd",
-			"albumTitle": "Dark Side of the Moon",
-			"year": "1973",
-			"genre": "Progressive Rock"
+			"artist": "XBOX 360",
+			"albumTitle": "Microsoft",
+			"year": "2005",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/miles.jpg",
-			"artist": "Miles Davis",
-			"albumTitle": "Kind of Blue",
-			"year": "1959",
-			"genre": "Modal Jazz"
+			"artist": "Playstation 3",
+			"albumTitle": "Sony",
+			"year": "2006",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/daft.jpg",
-			"artist": "Daft Punk",
-			"albumTitle": "Discovery",
-			"year": "2001",
-			"genre": "Electro-disco"
+			"artist": "Wii",
+			"albumTitle": "Nintendo",
+			"year": "2006",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/tomWaitsSmall.jpg",
-			"artist": "Tom Waits",
-			"albumTitle": "Small Change",
-			"year": "1976",
-			"genre": "Piano Blues"
+			"artist": "Playstation 4",
+			"albumTitle": "Sony",
+			"year": "2014",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/stevie.jpg",
-			"artist": "Stevie Ray Vaughan",
-			"albumTitle": "Texas Flood",
-			"year": "1983",
-			"genre": "Blues Rock"
+			"artist": "XBOX ONE",
+			"albumTitle": "Microsoft",
+			"year": "2013",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/porcupine.jpg",
-			"artist": "Porcupine Tree",
-			"albumTitle": "In Absentia",
-			"year": "2002",
-			"genre": "Progressive Rock"
+			"artist": "Wii U",
+			"albumTitle": "Nintendo",
+			"year": "2012",
+			"genre": "console"
 		},
 
 		{
 			"albumImage": "images/albums/art.jpg",
-			"artist": "Art Blakey",
-			"albumTitle": "Moanin'",
-			"year": "1959",
-			"genre": "Hard Bop Jazz"
+			"artist": "NX",
+			"albumTitle": "Nintendo'",
+			"year": "2016?",
+			"genre": "Console/handheld?"
 		}, {
 			"albumImage": "images/albums/norah.jpg",
-			"artist": "Norah Jones",
-			"albumTitle": "Come Away With Me",
-			"year": "2002",
-			"genre": "Vocal Jazz"
+			"artist": "Playstation 5",
+			"albumTitle": "Sony",
+			"year": "???",
+			"genre": "console"
 		}
 	],
 	"devices": [
