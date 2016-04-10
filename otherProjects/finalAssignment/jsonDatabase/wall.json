@@ -133,38 +133,38 @@
 			"device": "Gameboy",
 			"type": "Handheld",
 			"company": "Nintendo",
-			"price": "$130 CAD"
+			"price": "$200 CAD"
 
 		}, {
 			"deviceImage": "images/devices/gs1000e.jpg",
 			"device": "Gameboy Colour",
 			"type": "Handheld",
 			"company": "Nintendo",
-			"price": "$1,300 CAD"
+			"price": "$200 CAD"
 		}, {
 			"deviceImage": "images/devices/rs1i.jpg",
 			"device": "Gameboy Advanced",
 			"type": "Handheld",
 			"company": "Nintendo",
-			"price": "$900 CAD"
+			"price": "$200 CAD"
 		}, {
 			"deviceImage": "images/devices/sr60e.jpg",
 			"device": "Gameboy Advanced SP",
 			"type": "Handheld",
 			"company": "Nintendo",
-			"price": "$120 CAD"
+			"price": "$200 CAD"
 		}, {
 			"deviceImage": "images/devices/hd650.jpg",
 			"device": "DS",
 			"type": "Handheld",
 			"company": "Nintendo",
-			"price": "$550 CAD"
+			"price": "$200 CAD"
 		}, {
 			"deviceImage": "images/devices/samson.jpg",
 			"device": "3DS",
 			"type": "Handheld",
 			"company": "Nintendo",
-			"price": "$70 CAD"
+			"price": "$200 CAD"
 
 
 		}
