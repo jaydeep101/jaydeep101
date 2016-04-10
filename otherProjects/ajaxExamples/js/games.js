@@ -1,5 +1,5 @@
 $(document).ready(function(){
-$.getJSON("jsonDatabase/oscars.json",function(data){
+$.getJSON("jsonDatabase/games.json",function(data){
 
     console.dir(data);
 
