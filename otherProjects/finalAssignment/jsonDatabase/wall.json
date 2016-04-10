@@ -165,42 +165,6 @@
 			"type": "Headphones",
 			"company": "Samson",
 			"price": "$70 CAD"
-		}, {
-			"deviceImage": "images/devices/rha.jpg",
-			"device": "MA750i",
-			"type": "In-ear monitors",
-			"company": "RHA",
-			"price": "$150 CAD"
-		}, {
-			"deviceImage": "images/devices/sonos.jpg",
-			"device": "Play: 1",
-			"type": "WiFi connected speaker",
-			"company": "Sonos",
-			"price": "$220 CAD"
-		}, {
-			"deviceImage": "images/devices/walsh.jpg",
-			"device": "Walsh 3",
-			"type": "Speakers (passive)",
-			"company": "Ohm",
-			"price": "$1,200 CAD"
-		}, {
-			"deviceImage": "images/devices/evo.jpg",
-			"device": "Evo 2/8",
-			"type": "Speakers (passive)",
-			"company": "Wharfedale",
-			"price": "$600 CAD"
-		}, {
-			"deviceImage": "images/devices/asgard.jpg",
-			"device": "Asgard 2",
-			"type": "Amplifier (solid-state)",
-			"company": "Schiit",
-			"price": "$325 CAD"
-		}, {
-			"deviceImage": "images/devices/modi.jpg",
-			"device": "Modi",
-			"type": "DAC",
-			"company": "Schiit",
-			"price": "$130 CAD"
 
 
 		}
