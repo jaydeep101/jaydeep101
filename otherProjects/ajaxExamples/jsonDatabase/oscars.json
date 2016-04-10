@@ -2,120 +2,88 @@
  {
  "year": 2015,
     "image": "images/1.jpg",
-    "title": "Spotlight",
+    "title": "Fallout 4",
     "director": "Tom McCarthy",
  "comments": [
      {
-    "username": "IMDB Rating: ",
-    "stars": 8
-     },
-     {
-    "username": "Rotten Tomatoes Rating: ",
+    "username": "IGN Rating: ",
     "stars": 8
      }]
  },
  {
    "year": 2014,
     "image": "images/2.jpg",
-    "title": "Birdman",
+    "title": "Dragon Age",
     "director": "Alejandro González Iñárritu",
  "comments": [
      {
-    "username": "IMDB Rating: ",
+    "username": "IGN Rating: ",
     "stars": 7
-     },
-     {
-    "username": "Rotten Tomatoes Rating: ",
-    "stars": 8
      }]
  },
  {
  "year": 2013,
     "image": "images/3.jpg",
-    "title": "12 Years of Slave",
+    "title": "Last of Us",
     "director": "Steve McQueen",
  "comments": [
      {
-    "username": "IMDB Rating: ",
+    "username": "IGN Rating: ",
     "stars": 8
-     },
-     {
-    "username": "Rotten Tomatoes Rating: ",
-    "stars": 9
      }]
 },
  {
  "year": 2012,
     "image": "images/4.jpg",
-    "title": "Argo",
+    "title": "Journey",
     "director": "Ben Affleck",
  "comments": [
      {
-    "username": "IMDB Rating: ",
+    "username": "IGN Rating: ",
     "stars": 7
-     },
-     {
-    "username": "Rotten Tomatoes Rating: ",
-    "stars": 8
      }]
      },
  {
   "year": 2011,
     "image": "images/5.png",
-    "title": "The Artist",
+    "title": "Skyrim",
     "director": "Michel Hazanavicius",
  "comments": [
      {
-    "username": "IMDB Rating: ",
-    "stars": 8
-     },
-     {
-    "username": "Rotten Tomatoes Rating: ",
+    "username": "IGN Rating: ",
     "stars": 8
      }]
      },
  {
  "year": 2010,
     "image": "images/6.jpg",
-    "title": "The King's Speech",
+    "title": "Mass Effect 2",
     "director": "Tom Hooper",
  "comments": [
      {
-    "username": "IMDB Rating: ",
-    "stars": 8
-     },
-     {
-    "username": "Rotten Tomatoes Rating: ",
+    "username": "IGN Rating: ",
     "stars": 8
      }]
      },
  {
   "year": 2009,
     "image": "images/7.jpg",
-    "title": "The Hurt Locker",
+    "title": "Uncharted 2",
     "director": "Kathryn Bigelow",
  "comments": [
      {
-    "username": "IMDB Rating: ",
+    "username": "IGN Rating: ",
     "stars": 7
-     },
-     {
-    "username": "Rotten Tomatoes Rating: ",
-    "stars": 8
      }]
      },
  {
   "year": 2008,
     "image": "images/8.png",
-    "title": "Slumdog Millionare",
+    "title": "Little Big Planet",
     "director": "Danny Boyle",
  "comments": [
      {
-    "username": "IMDB Rating: ",
-    "stars": 8
-     },
-     {
-    "username": "Rotten Tomatoes Rating: ",
+    "username": "IGN Rating: ",
     "stars": 8
      }]
 
