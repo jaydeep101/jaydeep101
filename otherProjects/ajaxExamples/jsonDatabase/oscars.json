@@ -1,7 +1,7 @@
 [
  {
  "year": 2015,
-    "image": "images/spotlight.jpg",
+    "image": "images/1.jpg",
     "title": "Spotlight",
     "director": "Tom McCarthy",
  "comments": [
@@ -16,7 +16,7 @@
  },
  {
    "year": 2014,
-    "image": "images/birdman.jpg",
+    "image": "images/2.jpg",
     "title": "Birdman",
     "director": "Alejandro González Iñárritu",
  "comments": [
@@ -31,7 +31,7 @@
  },
  {
  "year": 2013,
-    "image": "images/12years.jpeg",
+    "image": "images/3.jpeg",
     "title": "12 Years of Slave",
     "director": "Steve McQueen",
  "comments": [
@@ -46,7 +46,7 @@
 },
  {
  "year": 2012,
-    "image": "images/argo.jpg",
+    "image": "images/4.jpg",
     "title": "Argo",
     "director": "Ben Affleck",
  "comments": [
@@ -61,7 +61,7 @@
      },
  {
   "year": 2011,
-    "image": "images/theartist.jpg",
+    "image": "images/5.png",
     "title": "The Artist",
     "director": "Michel Hazanavicius",
  "comments": [
@@ -76,7 +76,7 @@
      },
  {
  "year": 2010,
-    "image": "images/kings.jpg",
+    "image": "images/6.jpg",
     "title": "The King's Speech",
     "director": "Tom Hooper",
  "comments": [
@@ -91,7 +91,7 @@
      },
  {
   "year": 2009,
-    "image": "images/hurtlocker.jpg",
+    "image": "images/7.jpg",
     "title": "The Hurt Locker",
     "director": "Kathryn Bigelow",
  "comments": [
@@ -106,7 +106,7 @@
      },
  {
   "year": 2008,
-    "image": "images/slumdog.jpg",
+    "image": "images/8.png",
     "title": "Slumdog Millionare",
     "director": "Danny Boyle",
  "comments": [
