@@ -3,7 +3,7 @@
  "year": 2015,
     "image": "images/1.jpg",
     "title": "Fallout 4",
-    "director": "Tom McCarthy",
+    "director": "Bethesda",
  "comments": [
      {
     "username": "IGN Rating: ",
@@ -14,7 +14,7 @@
    "year": 2014,
     "image": "images/2.jpg",
     "title": "Dragon Age",
-    "director": "Alejandro González Iñárritu",
+    "director": "Bioware",
  "comments": [
      {
     "username": "IGN Rating: ",
@@ -25,7 +25,7 @@
  "year": 2013,
     "image": "images/3.jpg",
     "title": "Last of Us",
-    "director": "Steve McQueen",
+    "director": "Naughty Dog",
  "comments": [
      {
     "username": "IGN Rating: ",
@@ -36,7 +36,7 @@
  "year": 2012,
     "image": "images/4.jpg",
     "title": "Journey",
-    "director": "Ben Affleck",
+    "director": "IO",
  "comments": [
      {
     "username": "IGN Rating: ",
@@ -47,7 +47,7 @@
   "year": 2011,
     "image": "images/5.png",
     "title": "Skyrim",
-    "director": "Michel Hazanavicius",
+    "director": "Bethesda",
  "comments": [
      {
     "username": "IGN Rating: ",
@@ -58,7 +58,7 @@
  "year": 2010,
     "image": "images/6.jpg",
     "title": "Mass Effect 2",
-    "director": "Tom Hooper",
+    "director": "Bioware",
  "comments": [
      {
     "username": "IGN Rating: ",
@@ -69,7 +69,7 @@
   "year": 2009,
     "image": "images/7.jpg",
     "title": "Uncharted 2",
-    "director": "Kathryn Bigelow",
+    "director": "Naughty Dog",
  "comments": [
      {
     "username": "IGN Rating: ",
@@ -80,7 +80,7 @@
   "year": 2008,
     "image": "images/8.png",
     "title": "Little Big Planet",
-    "director": "Danny Boyle",
+    "director": "S.O.E",
  "comments": [
      {
     "username": "IGN Rating: ",
