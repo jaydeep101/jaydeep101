@@ -130,40 +130,40 @@
 
 		{
 			"deviceImage": "images/devices/e12.jpg",
-			"device": "E12",
-			"type": "Portable amp (solid-state)",
-			"company": "FiiO",
+			"device": "Gameboy",
+			"type": "Handheld",
+			"company": "Nintendo",
 			"price": "$130 CAD"
 
 		}, {
 			"deviceImage": "images/devices/gs1000e.jpg",
-			"device": "GS1000e",
-			"type": "Headphones",
-			"company": "Grado",
+			"device": "Gameboy Colour",
+			"type": "Handheld",
+			"company": "Nintendo",
 			"price": "$1,300 CAD"
 		}, {
 			"deviceImage": "images/devices/rs1i.jpg",
-			"device": "RS1i",
-			"type": "Headphones",
-			"company": "Grado",
+			"device": "Gameboy Advanced",
+			"type": "Handheld",
+			"company": "Nintendo",
 			"price": "$900 CAD"
 		}, {
 			"deviceImage": "images/devices/sr60e.jpg",
-			"device": "SR60e",
-			"type": "Headphones",
-			"company": "Grado",
+			"device": "Gameboy Advanced SP",
+			"type": "Handheld",
+			"company": "Nintendo",
 			"price": "$120 CAD"
 		}, {
 			"deviceImage": "images/devices/hd650.jpg",
-			"device": "HD 650",
-			"type": "Headphones",
-			"company": "Sennheiser",
+			"device": "DS",
+			"type": "Handheld",
+			"company": "Nintendo",
 			"price": "$550 CAD"
 		}, {
 			"deviceImage": "images/devices/samson.jpg",
-			"device": "SR 850",
-			"type": "Headphones",
-			"company": "Samson",
+			"device": "3DS",
+			"type": "Handheld",
+			"company": "Nintendo",
 			"price": "$70 CAD"
 
 
