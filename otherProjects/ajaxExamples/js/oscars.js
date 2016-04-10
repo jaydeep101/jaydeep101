@@ -6,10 +6,10 @@ $.getJSON("jsonDatabase/oscars.json",function(data){
     var html = "";
     $.each(data, function(index, item){
      html += '<div class="col-md-3">'+
-             '<img class="movieImage" src="' + item.image + '"/>' + "<br>" +
-             '<div class="movieYear">' + "<strong>Year: </strong>" + item.year + '</div>'+
-             '<div class="movieTitle">' + "<strong>Title: </strong>" + item.title + '</div>'+
-             '<div class="movieCompany">' + "<strong>Company: </strong>" + item.director + '</div>'+
+             '<img class="gameImage" src="' + item.image + '"/>' + "<br>" +
+             '<div class="gameYear">' + "<strong>Year: </strong>" + item.year + '</div>'+
+             '<div class="gameTitle">' + "<strong>Title: </strong>" + item.title + '</div>'+
+             '<div class="gameCompany">' + "<strong>Company: </strong>" + item.director + '</div>'+
              '<div class="commentContainer">';
         //ind = index; i=item
          $.each(item.comments, function(ind, i){
