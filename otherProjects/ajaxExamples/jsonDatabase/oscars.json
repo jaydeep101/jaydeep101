@@ -103,5 +103,20 @@
     "username": "Rotten Tomatoes Rating: ",
     "stars": 8
      }]
+     },
+ {
+  "year": 2008,
+    "image": "images/slumdog.jpg",
+    "title": "Slumdog Millionare",
+    "director": "Danny Boyle",
+ "comments": [
+     {
+    "username": "IMDB Rating: ",
+    "stars": 8
+     },
+     {
+    "username": "Rotten Tomatoes Rating: ",
+    "stars": 8
+     }]
 
  }]
