@@ -2,7 +2,8 @@ $(document).ready(function () {
 
     $(".hide-name").hide();
     $(".hide-address").hide();
-    //this class show when alert appears, style in css to make it red
+    //this class show when alert appears
+    //Made it red with CSS
     var price;
     $("#myButton").on("click", function () {
         //setting variables for id's in HTML
@@ -15,69 +16,68 @@ $(document).ready(function () {
         var myCheckbox = $("input[name='vehicle']:checked").map(function () {
             return this.value;
         }).get().join(", ");
-        //I understand, a 'for loop' would be more efficient val()++, price = val() * 1300, but due to time contraints this was easier for me to do. 
-        //user buy one pair, price is $1,300
+         //user buy one, price is $400
         if ($('#mySelect').val() === '1') {
-            price = 1300;
+            price = 400;
         }
-        //user buy two pairs, price is $2,600
+        //user buy two, price is $800
         if ($('#mySelect').val() === '2') {
-            price = 2600;
+            price = 800;
         }
-        //user buy three pairs, price is $3,900
+        //user buy three, price is $1200
         if ($('#mySelect').val() === '3') {
-            price = 3900;
+            price = 1200;
         }
-        //user buy four pairs, price is $5,200
+        //user buy four, price is $1600
         if ($('#mySelect').val() === '4') {
-            price = 5200;
+            price = 1600;
         }
-        //user buy five pairs, price is $6,500
+        //user buy five, price is $2000
         if ($('#mySelect').val() === '5') {
-            price = 6500;
+            price = 2000;
         }
-        //user buy six pairs, price is $7,800
+        //user buy six, price is $2400
         if ($('#mySelect').val() === '6') {
-            price = 7800;
+            price = 2400;
         }
-        //user buy seven pairs, price is $9,100
+        //user buy seven, price is $2800
         if ($('#mySelect').val() === '7') {
-            price = 9100;
+            price = 2800;
         }
-        //user buys eight pairs, price is $10,400
+        //user buys eight, price is $3200
         if ($('#mySelect').val() === '8') {
-            price = 10400;
+            price = 3200;
         }
-        //user buys nine pairs, price is $11,700
+        //user buys nine, price is $3600
         if ($('#mySelect').val() === '9') {
-            price = 11700;
+            price = 3600;
         }
-        //user buys ten pairs, price is $13,000
+        //user buys ten, price is $4000
         if ($('#mySelect').val() === '10') {
-            price = 13000;
+            price = 4000;
         }
 
-        //if user selects XLR connectors add $25 to price
-        if ($('input[value=XLR]').prop("checked")) {
+        //if user selects HDMI connectors add $25 to price
+        if ($('input[value=HDMI]').prop("checked")) {
             price = price + 25;
         }
 
-        if ($('input[value=ExtensionCable]').prop("checked")) {
+        if ($('input[value=PS4-Controller]').prop("checked")) {
             price = price + 25;
         }
 
-        if ($('input[value=Adaptor]').prop("checked")) {
+        if ($('input[value=USB-hub]').prop("checked")) {
             price = price + 25;
         }
 
 
-        if ($('input[value=G-cushion]' && 'input[value=L-cushion]').prop("checked")) {
+        if ($('input[value=PS4-Remote-Control]' && 'input[value=PS4-Headphones]').prop("checked")) {
             price = price + 0;
         }
-        if ($('input[value=G-cushion]' && 'input[value=S-cushion]').prop("checked")) {
+        if ($('input[PS4-Remote-Control]' && 'input[value=Controller-Keyboard]').prop("checked")) {
             price = price + 20;
         }
-        if ($('input[value=S-cushion]' && 'input[value=L-cushion]').prop("checked")) {
+        if ($('input[value=PS4-Headphones]' && 'input[value=Controller-Keyboard]').prop("checked")) {
             price = price + 20;
         }
 
@@ -90,12 +90,13 @@ $(document).ready(function () {
         $("#log").append("<br>Name: " + myInput);
         $("#log").append("<br>Delivery Address: " + myTextarea);
         $("#log").append("<br> Quantity ordered: " + mySelect);
-        $("#log").append("<br> Connector type: " + myRadio);
-        $("#log").append("<br> Accessories added: " + myCheckbox);
+        $("#log").append("<br> Practical Accessories: " + myRadio);
+        $("#log").append("<br> Leisure Accessories added: " + myCheckbox);
         $("#log").append("<br><br>");
 
 
-        //once user clicks the 'chain order button' alert the user to continue and add the following line at the bottom of the previous Reciept
+        //When user chhoses to click the 'chain order button' alert 
+        //the user can continue and add the following line at the bottom of the previous Receipt
         $("#chainButton").on("click", function () {
             $("#log").append("process the previous order, in addition to the following:");
             alert("Now you may complete your next order");
@@ -149,7 +150,7 @@ $(document).ready(function () {
         }
         //otherwise user enters a value <=9, so return this messsage
         else {
-            $("#mySelectMessage").html("Why not add one more :)");
+            $("#mySelectMessage").html("How bout another one?...please?!");
         }
         //ends mySelect change function
     });
@@ -161,7 +162,7 @@ $(document).ready(function () {
         })
     //changes button color to white when mouseleaves
         .on("mouseleave", function () {
-            $(this).text("Click to Place Order");
+            $(this).text("Click to Order");
             $(this).css("background-color", "white");
 
             //ends button mouseover and mouseleave functions
