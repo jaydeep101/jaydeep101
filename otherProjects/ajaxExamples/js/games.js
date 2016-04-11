@@ -32,7 +32,7 @@ $.getJSON("jsonDatabase/games.json",function(data){
               '</div>'; //col-md-4
 
 
-    })//each movie
+    })//each game
 
    $("#movieData").append(html);
 
@@ -43,13 +43,10 @@ $.getJSON("jsonDatabase/games.json",function(data){
 $("#compare").on("click", function(){
     //$('.agree:checked') is the number of checkboxes the user checks
     //whereas, var choice is the percentage of agreed upon choices
-    var choice = ($('.agree:checked').length / 16) * 100;
+    var choice = ($('.agree:checked').length / 8) * 100;
     alert("You agree with " + $('.agree:checked').length + " of the choices," + " which is "+ choice+ "%" );
 });
 
 
 //closes document.ready
 })
-//Attempted to try and have the poster images link the a summary page or IMDB page for the movie, but was unable to achieve it
-
-//$("images/spotlight.jpg").onClick="location.href='www.imdb.com/title/tt1895587'"
